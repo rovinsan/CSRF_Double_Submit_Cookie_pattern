@@ -1,0 +1,2 @@
+# CSRF_Double_Submit_Cookie_pattern
+Secure Software
